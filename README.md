@@ -8,8 +8,8 @@ This is a public API that returns basic information including the registered ema
 
 1. Clone the repository:
 
-    git clone https://github.com/yourusername/your-repo.git
-    cd your-repo
+    git clone https://github.com/samadeolu7/hng-stage-0-task.git
+    cd hng-stage-0-task
 
 
 2. Create a virtual environment and activate it:
