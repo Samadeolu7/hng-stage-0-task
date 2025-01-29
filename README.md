@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This is a public API that returns basic information including the registered email address, current datetime, and GitHub URL of the project's codebase.
+This is a public API that returns basic information including an email address, current datetime, and GitHub URL of the project's codebase.
 
 ## Setup Instructions
 
